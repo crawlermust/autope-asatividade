@@ -1,0 +1,10 @@
+C:\Projetos\AtividadePecas2.0\AtividadePecas2.0\bin\Debug\AtividadePecas2.0.exe.config
+C:\Projetos\AtividadePecas2.0\AtividadePecas2.0\bin\Debug\AtividadePecas2.0.exe
+C:\Projetos\AtividadePecas2.0\AtividadePecas2.0\bin\Debug\AtividadePecas2.0.pdb
+C:\Projetos\AtividadePecas2.0\AtividadePecas2.0\obj\Debug\AtividadePecas2.0.csprojAssemblyReference.cache
+C:\Projetos\AtividadePecas2.0\AtividadePecas2.0\obj\Debug\AtividadePecas2._0.CP.resources
+C:\Projetos\AtividadePecas2.0\AtividadePecas2.0\obj\Debug\AtividadePecas2._0.Properties.Resources.resources
+C:\Projetos\AtividadePecas2.0\AtividadePecas2.0\obj\Debug\AtividadePecas2.0.csproj.GenerateResource.cache
+C:\Projetos\AtividadePecas2.0\AtividadePecas2.0\obj\Debug\AtividadePecas2.0.csproj.CoreCompileInputs.cache
+C:\Projetos\AtividadePecas2.0\AtividadePecas2.0\obj\Debug\AtividadePecas2.0.exe
+C:\Projetos\AtividadePecas2.0\AtividadePecas2.0\obj\Debug\AtividadePecas2.0.pdb
